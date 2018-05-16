@@ -1,0 +1,14 @@
+uuid: e99ffcea-8d1f-453d-9d37-a0ed550f724d
+name: dealercounsel
+mail: love121@gmail.com
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI
